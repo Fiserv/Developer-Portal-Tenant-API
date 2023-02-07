@@ -30,7 +30,7 @@
 
  openapi: 3.0.2
 info:
-  title: Dev Studio Tenant APIs.
+   title: Dev Studio Tenant APIs.
   description: To onboard properly into the Fiserv Developer Studio askdjsa as a new tenant each
     product must support these APIs so that we can retrieve product specific API specs files.
     and documentation.

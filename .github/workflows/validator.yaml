@@ -2,7 +2,7 @@ name: Studio Validator
 on:
   # Triggers the workflow on push or pull request events for the dev, stage, main, preview, and previous branch.
   push:
-    branches: [ develop,stage,main ]
+    branches: [ develop,stage,main,preview,previous ]
   pull_request:
     branches: [ develop,stage,main,preview,previous ]
 

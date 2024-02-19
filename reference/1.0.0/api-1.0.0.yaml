@@ -65,7 +65,7 @@ paths:
         - Specs
       x-group-name: Specs
       x-proxy-name: apis
-      summary: Returns OpenAPI Spec.
+      summary: Returns the OpenAPI Spec.
       operationId: APISpecProviderId
       requestBody:
         description: Filter Request

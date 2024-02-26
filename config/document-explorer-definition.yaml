@@ -50,7 +50,7 @@
         - title: FAQ
           link: docs/faq/faq.md
         - title: BillPay Guide
-          link: https://github.com/Fiserv/billpay/blob/develop/docs/apiDomains/automaticTransactions.md
+          link: ../billpay/docs/apiDomains/automaticTransactions.md
         - title: Testing
           open: true
           sections: 

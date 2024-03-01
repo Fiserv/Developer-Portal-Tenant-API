@@ -11,4 +11,4 @@ jobs:
     uses: Fiserv/remote-actions/.github/workflows/validator-service.yaml@PORT-10030-Solution-Validator
     secrets: inherit
     with:
-      TOS: true
+      FR_tenant: true

@@ -8,7 +8,5 @@ on:
 
 jobs:
   validator: 
-    uses: Fiserv/remote-actions/.github/workflows/validator-service.yaml@fr-tenant-fix
+    uses: Fiserv/remote-actions/.github/workflows/validator-service.yaml@main
     secrets: inherit
-    with:
-      fr-tenant: true

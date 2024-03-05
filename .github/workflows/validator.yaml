@@ -10,3 +10,5 @@ jobs:
   validator: 
     uses: Fiserv/remote-actions/.github/workflows/validator-service.yaml@fr-tenant-fix
     secrets: inherit
+    with:
+      fr-tenant: true

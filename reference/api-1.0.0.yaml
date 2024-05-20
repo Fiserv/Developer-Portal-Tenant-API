@@ -104,7 +104,7 @@ paths:
       tags:
         - Layout
       x-group-name: Layout
-      x-proxy-name: /layouts
+      x-proxy-name: layouts
       summary: Returns the product page layout.
       operationId: LayoutAPIId
       responses:

@@ -45,11 +45,11 @@
   access: public
 - filePath: "Spec_Testing/Public_Access.ppt"
   access: public  
-- filePath: "Spec_Testing/Public_Access.html"
-  access: public  
-- filePath: "SpecTest/Test_Equinox_PIMS.csv"
-  access: private
-  groups: [UCOMM_MOBILE_GATEWAY]  
+# - filePath: "Spec_Testing/Public_Access.html"
+#   access: public  
+# - filePath: "SpecTest/Test_Equinox_PIMS.csv"
+#   access: private
+#   groups: [UCOMM_MOBILE_GATEWAY]  
 
 
 #   groups: [Test_Group_RG]

@@ -26,6 +26,13 @@
         link: docs/Spec_Testing/gatedContent.md 
       # access: public
       # groups: []
+
+- sections:
+    - title: NotificationToggleTest
+      sections:
+      - title: NotificationTesting
+        link: docs/NotificationToggleTest/notificationTest.md
+
 - sections:
     - title: Resources
       sections:

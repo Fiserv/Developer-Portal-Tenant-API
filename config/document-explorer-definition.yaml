@@ -64,3 +64,13 @@
               link: docs/SpecTest/SpecTest.md
               access: public
               groups: []
+- sections:
+    - title: Additional File Types testing
+      sections:
+      - title: GZ file
+        link: docs/additional_file_types/file.gz
+      - title: MSI file
+        link: docs/additional_file_types/file.msi
+      - title: PNG file
+        link: docs/additional_file_types/file.png
+

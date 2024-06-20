@@ -32,7 +32,7 @@ ___
 Need Help ?
 [FAQ](?path=docs/faq/faq.md)
 
-test2
+testing
 ___
 
 
